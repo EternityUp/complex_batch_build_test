@@ -1,0 +1,14 @@
+﻿生成启动时间为 2017/5/6 14:21:44。
+     1>项目“F:\各类软件编程\VS program\complex_test\complex_lib\complex_lib\complex_lib.vcxproj”在节点 3 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D COMPLEX_LIB_EXPORTS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt ..\..\src\src\complex.cpp
+         complex.cpp
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1361,5): warning MSB8012: TargetPath(F:\各类软件编程\VS program\complex_test\complex_demo\x64\Release\complex_lib.lib) does not match the Library's OutputFile property value (F:\各类软件编程\VS program\complex_test\lib\minSize_lib\complex_lib.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"..\..\lib\minSize_lib\complex_lib.lib" /NOLOGO /MACHINE:X64 /LTCG x64\Release\complex.obj
+         complex_lib.vcxproj -> F:\各类软件编程\VS program\complex_test\complex_demo\x64\Release\complex_lib.lib
+     1>已完成生成项目“F:\各类软件编程\VS program\complex_test\complex_lib\complex_lib\complex_lib.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.10

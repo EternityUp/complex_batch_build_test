@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/5/6 14:21:48。
+     1>项目“F:\各类软件编程\VS program\complex_test\complex_demo\complex_demo\complex_demo.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D COMPLEX_LIB_EXPORTS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt ..\..\src\demo\demo.cpp
+         demo.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\各类软件编程\VS program\complex_test\complex_demo\x64\Release\complex_demo.exe" /NOLOGO /LIBPATH:..\..\lib\minSize_lib\complex_lib.lib ..\..\lib\minSize_lib\complex_lib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\各类软件编程\VS program\complex_test\complex_demo\x64\Release\complex_demo.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\各类软件编程\VS program\complex_test\complex_demo\x64\Release\complex_demo.lib" /MACHINE:X64 x64\Release\demo.obj
+         正在生成代码
+         已完成代码的生成
+         complex_demo.vcxproj -> F:\各类软件编程\VS program\complex_test\complex_demo\x64\Release\complex_demo.exe
+     1>已完成生成项目“F:\各类软件编程\VS program\complex_test\complex_demo\complex_demo\complex_demo.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.64

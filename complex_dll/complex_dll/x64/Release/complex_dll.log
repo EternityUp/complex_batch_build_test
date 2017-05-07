@@ -1,0 +1,16 @@
+﻿生成启动时间为 2017/5/6 14:21:44。
+     1>项目“F:\各类软件编程\VS program\complex_test\complex_dll\complex_dll\complex_dll.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O1 /Oi /GL /D COMPLEX_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt ..\..\src\src\complex.cpp
+         complex.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\lib\minSize_lib\complex_dll.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\..\lib\minSize_lib\complex_dll.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\lib\minSize_lib\complex_dll.lib" /MACHINE:X64 /DLL x64\Release\complex.obj
+            正在创建库 ..\..\lib\minSize_lib\complex_dll.lib 和对象 ..\..\lib\minSize_lib\complex_dll.exp
+         正在生成代码
+         已完成代码的生成
+         complex_dll.vcxproj -> F:\各类软件编程\VS program\complex_test\complex_dll\complex_dll\..\..\lib\minSize_lib\complex_dll.dll
+     1>已完成生成项目“F:\各类软件编程\VS program\complex_test\complex_dll\complex_dll\complex_dll.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.07
